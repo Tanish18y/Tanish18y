@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">My name is Tanish Yadav and I'm a 1st year B.Tech Student from India</p>
+<p align="left">My name is Tanish Yadav and I'm a 2nd year B.Tech Student from India</p>
 
 ###
 
